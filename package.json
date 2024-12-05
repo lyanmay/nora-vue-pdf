@@ -1,5 +1,5 @@
 {
-  "name": "vue-pdf",
+  "name": "nora-vue-pdf",
   "version": "4.2.0",
   "description": "vue.js pdf viewer",
   "main": "src/vuePdfNoSss.vue",
